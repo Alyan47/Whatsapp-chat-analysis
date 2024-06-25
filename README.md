@@ -1,4 +1,4 @@
-Whatsapp Chat Analysis
+#Whatsapp Chat Analysis
 Setup for Python:
 Install Python (Setup instructions)
 
