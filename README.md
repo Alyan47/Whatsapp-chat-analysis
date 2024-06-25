@@ -1,8 +1,7 @@
-#Whatsapp Chat Analysis
-Setup for Python:
-Install Python (Setup instructions)
+# Whatsapp Chat Analysis
+## Setup for Python:
 
-Install Python packages
+###Install Python packages
 
 pip install streamlit 
 pip install matplotlib
